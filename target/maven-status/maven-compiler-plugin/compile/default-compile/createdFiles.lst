@@ -1,8 +1,0 @@
-com\xuexi\settings\service\impl\UserServiceImpl.class
-com\xuexi\settings\web\controller\UserController.class
-com\xuexi\web\controller\indexController.class
-com\xuexi\commons\domain\ReturnObject.class
-com\xuexi\settings\domain\User.class
-com\xuexi\settings\mapper\UserMapper.class
-com\xuexi\settings\service\UserService.class
-com\xuexi\workbench\web\controller\WorkBenchIndexController.class
